@@ -1,0 +1,12 @@
+# Task-4 How memory is managed in Python?
+
+Ans - Memory mangagment in pyhon is managed by python private heap space.
+      all python objects and data structures are located in a private heap.
+
+
+# Task-5 What is the purpose continue statement in python?
+
+Ans - the continue statment in python returns the control to the beginning
+      to the while loop.the continue statment rejects all the remaining statment
+      in the current iteration of the loop and moves the control back to the top 
+      of the loop.

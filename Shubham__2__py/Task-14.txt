@@ -1,0 +1,5 @@
+# Task - 14 What are negative indexes and why are they used?
+
+Ans - Negative indexes is used to begin slicing from the end of a string.
+      slicing gets a sub-string from a string.The slicing range is set as 
+      parameters.
